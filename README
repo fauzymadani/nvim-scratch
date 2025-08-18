@@ -1,0 +1,10 @@
+# Personal Nvim Configuration
+=============================
+this is my personal nvim config made from scratch. require nvim v0.10 >.
+
+# Installation
+==============
+just clone the repo and place it in `~/.config/nvim`.
+    git clone https://fauzymadani/nvim-scratch.git ~/.config/nvim/
+    nvim
+this config is made as simple as possible for my arch (btw) setup.
