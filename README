@@ -12,7 +12,7 @@ this config is made as simple as possible for my arch (btw) setup.
 
 # Keymap
 ==============================
-below is the keymap. for for details, see the `keymapp` section on the `init.lua` files.
+below is the keymap. for more details, see the `keymapp` section on the `init.lua` files.
 
 key         | description 
 -------------------------------------------
