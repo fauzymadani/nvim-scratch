@@ -25,3 +25,6 @@ leader + fb | search buffer
 leader + fg | search for word
 
 leader + fh | search for help
+
+# TODO: - add harpoon.nvim
+	- config slicing
