@@ -1,3 +1,7 @@
+=============================================================
+CONFIG IS MOVED TO `https://github.com/fauzymadani/dots.git` |
+=============================================================
+
 # Personal Nvim Configuration
 =============================
 this is my personal nvim config made from scratch. require nvim v0.10 >. this config is optimized for my preferred workflow, 
